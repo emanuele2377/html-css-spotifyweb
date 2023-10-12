@@ -1,5 +1,5 @@
 :root {
-    --footer-height: 130px;
+    --footer-height: 120px;
     --navbar-width: 12rem;
 }
 
@@ -248,4 +248,44 @@ flex-wrap: wrap;
 
 .img-terze {
     border-radius: 50%;
+}
+
+.contenitore-linea {
+    margin-left: 40%;
+}
+
+.linea {
+    border: solid 3px lightgrey;
+    width: 40%;
+    border-radius: 10px;
+    margin-bottom: 2%;
+}
+
+.minuti-sx {
+    margin-right: 47%;
+    margin-left: -7%;
+}
+
+
+
+/* xs */
+@media screen and (max-width:470px) {
+
+
+}
+
+/*s*/
+@media screen and (max-width:670px)  {
+
+   
+}
+
+/*md  */
+@media screen and  (max-width:970px) {
+    
+}
+
+/*lg  */
+@media screen and (max-width:1200px) {
+    
 }
